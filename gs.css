@@ -16,6 +16,10 @@
 .henriette{
     color: aquamarine;
 }
+.henriette:hover{
+    text-shadow: 1px 1px red;
+    border: 2px solid blue;
+}
 .jacques{
     color:darkblue;
 }
