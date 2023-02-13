@@ -35,5 +35,6 @@ tr:nth-child(even){
     background-color: lightblue;
 }
 tr:hover{
-    background-color: gray;
+    background-color: aliceblue;
+    opacity: 75%;
 }
