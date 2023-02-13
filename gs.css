@@ -1,0 +1,24 @@
+.speech{
+    color:black;
+    font-family: 'Courier New';
+    font-size: medium;
+}
+.direction{
+    color:black;
+    font-family:'Franklin Gothic Medium';
+    font-size: small;
+    background-color: greenyellow;
+}
+.direction:hover{
+    background-color: black;
+    color:darkorchid;
+}
+.henriette{
+    color: aquamarine;
+}
+.jacques{
+    color:darkblue;
+}
+.albert{
+    color:blueviolet;
+}
